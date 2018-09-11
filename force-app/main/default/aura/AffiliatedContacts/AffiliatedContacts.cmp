@@ -1,0 +1,31 @@
+<aura:component controller="FetchAffiliated" implements="force:appHostable,flexipage:availableForAllPageTypes,flexipage:availableForRecordHome,force:hasRecordId"
+  access="global">
+  <aura:attribute name="acontact" type="Affiliated_Contact__c[]" />
+  <ui:button label="Get Affiliated Contacts" press="{!c.myAction}" />
+  <table class="slds-table slds-table_bordered slds-max-medium-table_stacked-horizontal">
+    <!--Table must be responsive-->
+    <thead>
+      <tr class="slds-text-heading_label ">
+        <th class="" scope="col">First Name</th>
+        <th class="slds-is-sortable" scope="col">Last Name</th>
+        <th class="" scope="col">Email</th>
+        <th class="" scope="col">Mobile</th>
+        <th class="" scope="col">Phone</th>
+        <th class="slds-is-sortable" scope="col">Updated</th>
+      </tr>
+    </thead>
+    <tbody>
+      <aura:iteration var="ac" items="{!v.acontact}">
+        <tr class="slds-hint-parent">
+          <td data-label="First Name" style="padding-left:0;">{ac.Last_Name__c}</td>
+          <td data-label="Last Name" style="padding-left:0;">{ac.First_Name__c}</td>
+          <td data-label="Email" style="padding-left:0;">{ac.Email__c}</td>
+          <td data-label="Mobile" style="padding-left:0;">{ac.Mobile__c}</td>
+          <td data-label="Phone" style="padding-left:0;">{ac.Phone__c}</td>
+          <td data-label="Updated" style="padding-left:0;">{ac.Updated__c}</td>
+        </tr>
+
+      </aura:iteration>
+    </tbody>
+  </table>
+</aura:component>
