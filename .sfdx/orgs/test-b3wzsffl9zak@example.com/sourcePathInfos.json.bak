@@ -2,15 +2,16 @@
     [
         "c:\\projects\\llnbproject\\force-app",
         {
-            "state": "u",
             "sourcePath": "c:\\projects\\llnbproject\\force-app",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1536560430621,
             "changeTime": 1536560430621,
+            "contentHash": "2f41b038d2435dfc98a2e74fe75379ad5734d2c3",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
-            "contentHash": "2f41b038d2435dfc98a2e74fe75379ad5734d2c3"
+            "isArtifactRoot": true
         }
     ],
     [
@@ -81,24 +82,25 @@
             "isDirectory": true,
             "isMetadataFile": false,
             "size": 0,
-            "modifiedTime": 1536640348876,
-            "changeTime": 1536640348876,
+            "modifiedTime": 1536730464790,
+            "changeTime": 1536730464790,
             "isWorkspace": false,
-            "contentHash": "09b1863806602010843bc92841f070b65d5a7e17"
+            "contentHash": "f273054365a9c9380ff2dcfaf3522d448de62b7f"
         }
     ],
     [
         "c:\\projects\\llnbproject\\force-app\\main\\default\\classes",
         {
-            "state": "u",
             "sourcePath": "c:\\projects\\llnbproject\\force-app\\main\\default\\classes",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
-            "modifiedTime": 1536625942062,
-            "changeTime": 1536625942062,
+            "modifiedTime": 1536723362243,
+            "changeTime": 1536723362243,
+            "contentHash": "a80398ab722d77cbb0381aed28a19f0e9d552feb",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
-            "contentHash": "4e69b48e25a67f9b9b4f18fe0a3267677663440a"
+            "isArtifactRoot": false
         }
     ],
     [
@@ -241,10 +243,10 @@
         {
             "sourcePath": "c:\\projects\\llnbproject\\force-app\\main\\default\\layouts\\Lifeline_NB_Role__c-TCS Applicant Layout.layout-meta.xml",
             "isDirectory": false,
-            "size": 7033,
-            "modifiedTime": 1536559475913,
-            "changeTime": 1536559475913,
-            "contentHash": "fc590b0a5ee5d35aab7cc92b73f444da65cc58b4",
+            "size": 5564,
+            "modifiedTime": 1536626945462,
+            "changeTime": 1536626945462,
+            "contentHash": "eca2ba150914ffefa67bf9ba88d1494a1f8fe1e1",
             "isMetadataFile": true,
             "state": "u",
             "isWorkspace": false,
@@ -39179,301 +39181,401 @@
     [
         "c:\\projects\\llnbproject",
         {
-            "state": "u",
             "sourcePath": "c:\\projects\\llnbproject",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1536560595777,
             "changeTime": 1536560595777,
-            "isWorkspace": true,
-            "contentHash": "806ba1a6fdbf66cfb747163cfbc2797dba062b4e"
+            "contentHash": "806ba1a6fdbf66cfb747163cfbc2797dba062b4e",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": true
         }
     ],
     [
         "c:\\projects\\llnbproject\\force-app\\main\\default\\aura\\AffiliatedContacts",
         {
-            "state": "u",
             "sourcePath": "c:\\projects\\llnbproject\\force-app\\main\\default\\aura\\AffiliatedContacts",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1536625408682,
             "changeTime": 1536625408682,
-            "contentHash": "03f09478b4de8d58453bf78b72b768aee1260061"
+            "contentHash": "03f09478b4de8d58453bf78b72b768aee1260061",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
         "c:\\projects\\llnbproject\\force-app\\main\\default\\aura\\ldsCreate",
         {
-            "state": "u",
             "sourcePath": "c:\\projects\\llnbproject\\force-app\\main\\default\\aura\\ldsCreate",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1536640348894,
             "changeTime": 1536640348894,
-            "contentHash": "4e84bdae78e90bcb3485c3940584adf8eb8c54f8"
+            "contentHash": "4e84bdae78e90bcb3485c3940584adf8eb8c54f8",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
         "c:\\projects\\llnbproject\\force-app\\main\\default\\aura\\AffiliatedContacts\\AffiliatedContacts.auradoc",
         {
-            "state": "u",
             "sourcePath": "c:\\projects\\llnbproject\\force-app\\main\\default\\aura\\AffiliatedContacts\\AffiliatedContacts.auradoc",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 209,
             "modifiedTime": 1536625408682,
             "changeTime": 1536625408682,
-            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e"
+            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
         "c:\\projects\\llnbproject\\force-app\\main\\default\\aura\\AffiliatedContacts\\AffiliatedContacts.cmp",
         {
-            "state": "u",
             "sourcePath": "c:\\projects\\llnbproject\\force-app\\main\\default\\aura\\AffiliatedContacts\\AffiliatedContacts.cmp",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 1499,
             "modifiedTime": 1536627128951,
             "changeTime": 1536627128951,
-            "contentHash": "686fb38d0da285d023c31f9df0446476639316e2"
+            "contentHash": "686fb38d0da285d023c31f9df0446476639316e2",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
         "c:\\projects\\llnbproject\\force-app\\main\\default\\aura\\AffiliatedContacts\\AffiliatedContacts.cmp-meta.xml",
         {
-            "state": "u",
             "sourcePath": "c:\\projects\\llnbproject\\force-app\\main\\default\\aura\\AffiliatedContacts\\AffiliatedContacts.cmp-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 250,
             "modifiedTime": 1536625408673,
             "changeTime": 1536625408673,
-            "contentHash": "845432c4a77e52d99a054777524e85a402ad8502"
+            "contentHash": "845432c4a77e52d99a054777524e85a402ad8502",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
         "c:\\projects\\llnbproject\\force-app\\main\\default\\aura\\AffiliatedContacts\\AffiliatedContacts.css",
         {
-            "state": "u",
             "sourcePath": "c:\\projects\\llnbproject\\force-app\\main\\default\\aura\\AffiliatedContacts\\AffiliatedContacts.css",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 10,
             "modifiedTime": 1536625408678,
             "changeTime": 1536625408678,
-            "contentHash": "44063bf628f237edaa1f3f358714dd40ac321703"
+            "contentHash": "44063bf628f237edaa1f3f358714dd40ac321703",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
         "c:\\projects\\llnbproject\\force-app\\main\\default\\aura\\AffiliatedContacts\\AffiliatedContacts.design",
         {
-            "state": "u",
             "sourcePath": "c:\\projects\\llnbproject\\force-app\\main\\default\\aura\\AffiliatedContacts\\AffiliatedContacts.design",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 40,
             "modifiedTime": 1536625408683,
             "changeTime": 1536625408683,
-            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec"
+            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
         "c:\\projects\\llnbproject\\force-app\\main\\default\\aura\\AffiliatedContacts\\AffiliatedContacts.svg",
         {
-            "state": "u",
             "sourcePath": "c:\\projects\\llnbproject\\force-app\\main\\default\\aura\\AffiliatedContacts\\AffiliatedContacts.svg",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 661,
             "modifiedTime": 1536625408680,
             "changeTime": 1536625408680,
-            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4"
+            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
         "c:\\projects\\llnbproject\\force-app\\main\\default\\aura\\AffiliatedContacts\\AffiliatedContactsController.js",
         {
-            "state": "u",
             "sourcePath": "c:\\projects\\llnbproject\\force-app\\main\\default\\aura\\AffiliatedContacts\\AffiliatedContactsController.js",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 353,
             "modifiedTime": 1536625520228,
             "changeTime": 1536625520228,
-            "contentHash": "ffe6924668180e79a8c2b54263065e4e5400a601"
+            "contentHash": "ffe6924668180e79a8c2b54263065e4e5400a601",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
         "c:\\projects\\llnbproject\\force-app\\main\\default\\aura\\AffiliatedContacts\\AffiliatedContactsHelper.js",
         {
-            "state": "u",
             "sourcePath": "c:\\projects\\llnbproject\\force-app\\main\\default\\aura\\AffiliatedContacts\\AffiliatedContactsHelper.js",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 45,
             "modifiedTime": 1536625408676,
             "changeTime": 1536625408676,
-            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b"
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
         "c:\\projects\\llnbproject\\force-app\\main\\default\\aura\\AffiliatedContacts\\AffiliatedContactsRenderer.js",
         {
-            "state": "u",
             "sourcePath": "c:\\projects\\llnbproject\\force-app\\main\\default\\aura\\AffiliatedContacts\\AffiliatedContactsRenderer.js",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 50,
             "modifiedTime": 1536625408679,
             "changeTime": 1536625408679,
-            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b"
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
         "c:\\projects\\llnbproject\\force-app\\main\\default\\aura\\ldsCreate\\ldsCreate.auradoc",
         {
-            "state": "u",
             "sourcePath": "c:\\projects\\llnbproject\\force-app\\main\\default\\aura\\ldsCreate\\ldsCreate.auradoc",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 209,
             "modifiedTime": 1536640348893,
             "changeTime": 1536640348893,
-            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e"
+            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
         "c:\\projects\\llnbproject\\force-app\\main\\default\\aura\\ldsCreate\\ldsCreate.cmp",
         {
-            "state": "u",
             "sourcePath": "c:\\projects\\llnbproject\\force-app\\main\\default\\aura\\ldsCreate\\ldsCreate.cmp",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 1368,
             "modifiedTime": 1536640473332,
             "changeTime": 1536640473332,
-            "contentHash": "abd7601b49f6808f0713e2bc6ec3496c732473cb"
+            "contentHash": "abd7601b49f6808f0713e2bc6ec3496c732473cb",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
         "c:\\projects\\llnbproject\\force-app\\main\\default\\aura\\ldsCreate\\ldsCreate.cmp-meta.xml",
         {
-            "state": "u",
             "sourcePath": "c:\\projects\\llnbproject\\force-app\\main\\default\\aura\\ldsCreate\\ldsCreate.cmp-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 241,
             "modifiedTime": 1536640348879,
             "changeTime": 1536640348879,
-            "contentHash": "e0f70fbfc750076f6cde3325713e4bf5510c95de"
+            "contentHash": "e0f70fbfc750076f6cde3325713e4bf5510c95de",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
         "c:\\projects\\llnbproject\\force-app\\main\\default\\aura\\ldsCreate\\ldsCreate.css",
         {
-            "state": "u",
             "sourcePath": "c:\\projects\\llnbproject\\force-app\\main\\default\\aura\\ldsCreate\\ldsCreate.css",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 10,
             "modifiedTime": 1536640348883,
             "changeTime": 1536640348883,
-            "contentHash": "44063bf628f237edaa1f3f358714dd40ac321703"
+            "contentHash": "44063bf628f237edaa1f3f358714dd40ac321703",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
         "c:\\projects\\llnbproject\\force-app\\main\\default\\aura\\ldsCreate\\ldsCreate.design",
         {
-            "state": "u",
             "sourcePath": "c:\\projects\\llnbproject\\force-app\\main\\default\\aura\\ldsCreate\\ldsCreate.design",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 40,
             "modifiedTime": 1536640348894,
             "changeTime": 1536640348894,
-            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec"
+            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
         "c:\\projects\\llnbproject\\force-app\\main\\default\\aura\\ldsCreate\\ldsCreate.svg",
         {
-            "state": "u",
             "sourcePath": "c:\\projects\\llnbproject\\force-app\\main\\default\\aura\\ldsCreate\\ldsCreate.svg",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 661,
             "modifiedTime": 1536640348890,
             "changeTime": 1536640348890,
-            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4"
+            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
         "c:\\projects\\llnbproject\\force-app\\main\\default\\aura\\ldsCreate\\ldsCreateController.js",
         {
-            "state": "u",
             "sourcePath": "c:\\projects\\llnbproject\\force-app\\main\\default\\aura\\ldsCreate\\ldsCreateController.js",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 1753,
             "modifiedTime": 1536640473503,
             "changeTime": 1536640473503,
-            "contentHash": "7fab196ac017a54f7419cbdc4e1dac5f86e3b01c"
+            "contentHash": "7fab196ac017a54f7419cbdc4e1dac5f86e3b01c",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
         "c:\\projects\\llnbproject\\force-app\\main\\default\\aura\\ldsCreate\\ldsCreateHelper.js",
         {
-            "state": "u",
             "sourcePath": "c:\\projects\\llnbproject\\force-app\\main\\default\\aura\\ldsCreate\\ldsCreateHelper.js",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 45,
             "modifiedTime": 1536640348882,
             "changeTime": 1536640348882,
-            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b"
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
         "c:\\projects\\llnbproject\\force-app\\main\\default\\aura\\ldsCreate\\ldsCreateRenderer.js",
         {
-            "state": "u",
             "sourcePath": "c:\\projects\\llnbproject\\force-app\\main\\default\\aura\\ldsCreate\\ldsCreateRenderer.js",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 50,
             "modifiedTime": 1536640348885,
             "changeTime": 1536640348885,
-            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b"
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
         "c:\\projects\\llnbproject\\force-app\\main\\default\\classes\\FetchAffiliated.cls",
         {
-            "state": "u",
             "sourcePath": "c:\\projects\\llnbproject\\force-app\\main\\default\\classes\\FetchAffiliated.cls",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 573,
             "modifiedTime": 1536625959199,
             "changeTime": 1536625959199,
-            "contentHash": "ac4b7124bb1b98d9500f2d7f9b82a5ae2cec5226"
+            "contentHash": "ac4b7124bb1b98d9500f2d7f9b82a5ae2cec5226",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
         "c:\\projects\\llnbproject\\force-app\\main\\default\\classes\\FetchAffiliated.cls-meta.xml",
         {
-            "state": "u",
             "sourcePath": "c:\\projects\\llnbproject\\force-app\\main\\default\\classes\\FetchAffiliated.cls-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 193,
             "modifiedTime": 1536625942063,
             "changeTime": 1536625942063,
-            "contentHash": "8f94637dfa0718d4ffa39f897e5d104b274b881f"
+            "contentHash": "8f94637dfa0718d4ffa39f897e5d104b274b881f",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\projects\\llnbproject\\force-app\\main\\default\\classes\\ContactController.cls",
+        {
+            "sourcePath": "c:\\projects\\llnbproject\\force-app\\main\\default\\classes\\ContactController.cls",
+            "isDirectory": false,
+            "size": 287,
+            "modifiedTime": 1536723695203,
+            "changeTime": 1536723695203,
+            "contentHash": "d5eb120ad84c71e543c0b6a9a596f0ca1e0a5341",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\projects\\llnbproject\\force-app\\main\\default\\classes\\ContactController.cls-meta.xml",
+        {
+            "sourcePath": "c:\\projects\\llnbproject\\force-app\\main\\default\\classes\\ContactController.cls-meta.xml",
+            "isDirectory": false,
+            "size": 195,
+            "modifiedTime": 1536723362243,
+            "changeTime": 1536723362243,
+            "contentHash": "b3c8f0514c43c5ff7fcfde2c8577ca8d6255d181",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\projects\\llnbproject\\force-app\\main\\default\\aura\\contactList",
+        {
+            "state": "u",
+            "sourcePath": "c:\\projects\\llnbproject\\force-app\\main\\default\\aura\\contactList",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1536730464811,
+            "changeTime": 1536730464811,
+            "contentHash": "7d551270b7a68f45b7cc4561b7b0fb40fe30d525"
+        }
+    ],
+    [
+        "c:\\projects\\llnbproject\\force-app\\main\\default\\aura\\contacts",
+        {
+            "state": "u",
+            "sourcePath": "c:\\projects\\llnbproject\\force-app\\main\\default\\aura\\contacts",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1536723943402,
+            "changeTime": 1536723943402,
+            "contentHash": "2c7a7174130bd9542f072480a461db782616d12f"
         }
     ]
 ]
