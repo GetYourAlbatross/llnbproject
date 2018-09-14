@@ -8,12 +8,12 @@
     var contacts = component.get("v.contacts");
     var contactList = component.get("v.contactList");
 
-    //Get the selected option: "Referral", "Social Media", "All"
+    //Get the selected option: "Referral", "Social Media", or "All"
     var selected = event.getSource().get("v.value");
 
     var filter = [];
     var k = 0;
-    for (var i = 0; i < contactList.length; 1++) {
+    for (var i = 0; i < contactList.length; i++) {
       var c = contactList[i];
       if (selected != "All") {
         if (c.LeadSource == selected) {
@@ -23,10 +23,9 @@
       } else {
         filter = contactList;
       }
-
-      //Set the filtered list of contacts based on the selected option
-      component.set("v.contacts", filter);
-      helper.updateTotal(component);
     }
+    //Set the filtered list of contacts based on the selected option
+    component.set("v.contacts", filter);
+    helper.updateTotal(component);
   }
 })
