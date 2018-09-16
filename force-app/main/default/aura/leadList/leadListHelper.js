@@ -1,12 +1,12 @@
 ({
-  loadContacts: function (cmp) {
-    // Load all contact data
-    var action = cmp.get("c.getContacts");
+  loadLeads: function (cmp) {
+    // Load all lead data
+    var action = cmp.get("c.getLeads");
     action.setCallback(this, function (response) {
       var state = response.getState();
       if (state === "SUCCESS") {
-        cmp.set("v.contacts", response.getReturnValue());
-        cmp.set("v.contactList", response.getReturnValue());
+        cmp.set("v.leads", response.getReturnValue());
+        cmp.set("v.leadList", response.getReturnValue());
         this.updateTotal(cmp);
       }
 
@@ -15,7 +15,7 @@
       if (state === 'SUCCESS') {
         toastEvent.setParams({
           "title": "Success!",
-          "message": " Your contacts have been loaded successfully."
+          "message": " Your leads have been loaded successfully."
         });
       } else {
         toastEvent.setParams({
@@ -29,7 +29,7 @@
   },
 
   updateTotal: function (cmp) {
-    var contacts = cmp.get("v.contacts");
-    cmp.set("v.totalContacts", contacts.length);
+    var leads = cmp.get("v.leads");
+    cmp.set("v.totalLeads", leads.length);
   }
 })

@@ -1,0 +1,13 @@
+<aura:component>
+  <aura:attribute name="lead" type="Lead" />
+
+  <lightning:card variant="Narrow" title="{!v.lead.Name}" iconName="standard:lead">
+    <aura:set attribute="actions">
+      <lightning:button name="details" label="Details" onclick="{!c.goToRecord}" />
+    </aura:set>
+    <aura:set attribute="footer">
+      <lightning:badge label="{!v.Email}" />
+    </aura:set>   
+  </lightning:card>
+
+</aura:component>

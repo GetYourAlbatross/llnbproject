@@ -32,16 +32,14 @@
     [
         "c:\\projects\\llnbproject\\force-app\\main\\default",
         {
+            "state": "u",
             "sourcePath": "c:\\projects\\llnbproject\\force-app\\main\\default",
             "isDirectory": true,
-            "size": 0,
-            "modifiedTime": 1536559487116,
-            "changeTime": 1536559487116,
-            "contentHash": "77d1a657fb8688e5dafd72d30b066aec5a84223f",
             "isMetadataFile": false,
-            "state": "u",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "size": 0,
+            "modifiedTime": 1537064979667,
+            "changeTime": 1537064979667,
+            "contentHash": "c65377f3860296b801348b8aea6dc72e45f4c281"
         }
     ],
     [
@@ -82,25 +80,22 @@
             "isDirectory": true,
             "isMetadataFile": false,
             "size": 0,
-            "modifiedTime": 1536730464790,
-            "changeTime": 1536730464790,
-            "isWorkspace": false,
-            "contentHash": "f273054365a9c9380ff2dcfaf3522d448de62b7f"
+            "modifiedTime": 1537064979401,
+            "changeTime": 1537064979401,
+            "contentHash": "75e1e6941403611e0f05f578ed16c32c49861fc2"
         }
     ],
     [
         "c:\\projects\\llnbproject\\force-app\\main\\default\\classes",
         {
+            "state": "u",
             "sourcePath": "c:\\projects\\llnbproject\\force-app\\main\\default\\classes",
             "isDirectory": true,
-            "size": 0,
-            "modifiedTime": 1536723362243,
-            "changeTime": 1536723362243,
-            "contentHash": "a80398ab722d77cbb0381aed28a19f0e9d552feb",
             "isMetadataFile": false,
-            "state": "u",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "size": 0,
+            "modifiedTime": 1537064979645,
+            "changeTime": 1537064979645,
+            "contentHash": "d815c9a2fe09b4ffed88855b598b4990eb1e958a"
         }
     ],
     [
@@ -166,16 +161,14 @@
     [
         "c:\\projects\\llnbproject\\force-app\\main\\default\\flexipages",
         {
+            "state": "u",
             "sourcePath": "c:\\projects\\llnbproject\\force-app\\main\\default\\flexipages",
             "isDirectory": true,
-            "size": 0,
-            "modifiedTime": 1536559475897,
-            "changeTime": 1536559475897,
-            "contentHash": "5bc40cb10ff115e13cf5bfd27738a9499daddd82",
             "isMetadataFile": false,
-            "state": "u",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "size": 0,
+            "modifiedTime": 1537064979592,
+            "changeTime": 1537064979592,
+            "contentHash": "0ade12261a8a3814cf8d5c7c7034faf42ddbd3bd"
         }
     ],
     [
@@ -196,16 +189,14 @@
     [
         "c:\\projects\\llnbproject\\force-app\\main\\default\\layouts",
         {
+            "state": "u",
             "sourcePath": "c:\\projects\\llnbproject\\force-app\\main\\default\\layouts",
             "isDirectory": true,
-            "size": 0,
-            "modifiedTime": 1536559475929,
-            "changeTime": 1536559475929,
-            "contentHash": "795e3a69b41e38a6e35965e8ce9d6dd1d56b70d7",
             "isMetadataFile": false,
-            "state": "u",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "size": 0,
+            "modifiedTime": 1537064979573,
+            "changeTime": 1537064979573,
+            "contentHash": "d7ac84fa14bd9f18977afcfcaf72d5631fac38c9"
         }
     ],
     [
@@ -346,16 +337,14 @@
     [
         "c:\\projects\\llnbproject\\force-app\\main\\default\\objects",
         {
+            "state": "u",
             "sourcePath": "c:\\projects\\llnbproject\\force-app\\main\\default\\objects",
             "isDirectory": true,
-            "size": 0,
-            "modifiedTime": 1536559476258,
-            "changeTime": 1536559476258,
-            "contentHash": "6d94c332b282b3df692e83986b8ac0f41c1b841a",
             "isMetadataFile": false,
-            "state": "u",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "size": 0,
+            "modifiedTime": 1537064979560,
+            "changeTime": 1537064979560,
+            "contentHash": "802f9c199734d2c2daee0409ced64805969669cc"
         }
     ],
     [
@@ -39106,16 +39095,14 @@
     [
         "c:\\projects\\llnbproject\\force-app\\main\\default\\tabs",
         {
+            "state": "u",
             "sourcePath": "c:\\projects\\llnbproject\\force-app\\main\\default\\tabs",
             "isDirectory": true,
-            "size": 0,
-            "modifiedTime": 1536559487131,
-            "changeTime": 1536559487131,
-            "contentHash": "2dbdcb110a5e42deb82c8d468f2cf1dfaf2e6837",
             "isMetadataFile": false,
-            "state": "u",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "size": 0,
+            "modifiedTime": 1537064979607,
+            "changeTime": 1537064979607,
+            "contentHash": "d6598725a58e01ade788e4acf7a5be6aa058bfe8"
         }
     ],
     [
@@ -39525,31 +39512,27 @@
     [
         "c:\\projects\\llnbproject\\force-app\\main\\default\\classes\\ContactController.cls",
         {
+            "state": "u",
             "sourcePath": "c:\\projects\\llnbproject\\force-app\\main\\default\\classes\\ContactController.cls",
             "isDirectory": false,
-            "size": 287,
-            "modifiedTime": 1536723695203,
-            "changeTime": 1536723695203,
-            "contentHash": "d5eb120ad84c71e543c0b6a9a596f0ca1e0a5341",
             "isMetadataFile": false,
-            "state": "u",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "size": 298,
+            "modifiedTime": 1537064979645,
+            "changeTime": 1537064979645,
+            "contentHash": "b0223c9f9fc0117d7c05fcfcaa6f24eb9d41c699"
         }
     ],
     [
         "c:\\projects\\llnbproject\\force-app\\main\\default\\classes\\ContactController.cls-meta.xml",
         {
+            "state": "u",
             "sourcePath": "c:\\projects\\llnbproject\\force-app\\main\\default\\classes\\ContactController.cls-meta.xml",
             "isDirectory": false,
-            "size": 195,
-            "modifiedTime": 1536723362243,
-            "changeTime": 1536723362243,
-            "contentHash": "b3c8f0514c43c5ff7fcfde2c8577ca8d6255d181",
             "isMetadataFile": true,
-            "state": "u",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "size": 174,
+            "modifiedTime": 1537064979637,
+            "changeTime": 1537064979637,
+            "contentHash": "0bfc8bc49e53c8f0f6b207cf675766c0d6546ee5"
         }
     ],
     [
@@ -39560,8 +39543,8 @@
             "isDirectory": true,
             "isMetadataFile": false,
             "size": 0,
-            "modifiedTime": 1536730464811,
-            "changeTime": 1536730464811,
+            "modifiedTime": 1537064979445,
+            "changeTime": 1537064979445,
             "contentHash": "7d551270b7a68f45b7cc4561b7b0fb40fe30d525"
         }
     ],
@@ -39573,9 +39556,581 @@
             "isDirectory": true,
             "isMetadataFile": false,
             "size": 0,
-            "modifiedTime": 1536723943402,
-            "changeTime": 1536723943402,
+            "modifiedTime": 1537064979468,
+            "changeTime": 1537064979468,
             "contentHash": "2c7a7174130bd9542f072480a461db782616d12f"
+        }
+    ],
+    [
+        "c:\\projects\\llnbproject\\force-app\\main\\default\\aura\\leads\\leads.cmp-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "c:\\projects\\llnbproject\\force-app\\main\\default\\aura\\leads\\leads.cmp-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 228,
+            "modifiedTime": 1537064979387,
+            "changeTime": 1537064979387,
+            "contentHash": "0e56fac143bebb2d3f47b76d45c3a61ff95ee18e"
+        }
+    ],
+    [
+        "c:\\projects\\llnbproject\\force-app\\main\\default\\aura\\leads\\leadsController.js",
+        {
+            "state": "u",
+            "sourcePath": "c:\\projects\\llnbproject\\force-app\\main\\default\\aura\\leads\\leadsController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 313,
+            "modifiedTime": 1537064979389,
+            "changeTime": 1537064979389,
+            "contentHash": "95b54ea7b860c307666587852cb69fe27916ae70"
+        }
+    ],
+    [
+        "c:\\projects\\llnbproject\\force-app\\main\\default\\aura\\leads\\leads.cmp",
+        {
+            "state": "u",
+            "sourcePath": "c:\\projects\\llnbproject\\force-app\\main\\default\\aura\\leads\\leads.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 418,
+            "modifiedTime": 1537064979395,
+            "changeTime": 1537064979395,
+            "contentHash": "64ed4bbff669784f580266757fa7e08a82329a74"
+        }
+    ],
+    [
+        "c:\\projects\\llnbproject\\force-app\\main\\default\\aura\\leadList\\leadList.cmp-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "c:\\projects\\llnbproject\\force-app\\main\\default\\aura\\leadList\\leadList.cmp-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 228,
+            "modifiedTime": 1537064979402,
+            "changeTime": 1537064979402,
+            "contentHash": "0e56fac143bebb2d3f47b76d45c3a61ff95ee18e"
+        }
+    ],
+    [
+        "c:\\projects\\llnbproject\\force-app\\main\\default\\aura\\leadList\\leadListHelper.js",
+        {
+            "state": "u",
+            "sourcePath": "c:\\projects\\llnbproject\\force-app\\main\\default\\aura\\leadList\\leadListHelper.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 986,
+            "modifiedTime": 1537064979403,
+            "changeTime": 1537064979403,
+            "contentHash": "c8b0dd4cbd1d169a5bfeb0bbf4b1e59c3dc08fe2"
+        }
+    ],
+    [
+        "c:\\projects\\llnbproject\\force-app\\main\\default\\aura\\leadList\\leadList.cmp",
+        {
+            "state": "u",
+            "sourcePath": "c:\\projects\\llnbproject\\force-app\\main\\default\\aura\\leadList\\leadList.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 2061,
+            "modifiedTime": 1537064979411,
+            "changeTime": 1537064979411,
+            "contentHash": "bc22aad003e9c03feb095dac18f50af749dd90db"
+        }
+    ],
+    [
+        "c:\\projects\\llnbproject\\force-app\\main\\default\\aura\\leadList\\leadListController.js",
+        {
+            "state": "u",
+            "sourcePath": "c:\\projects\\llnbproject\\force-app\\main\\default\\aura\\leadList\\leadListController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 850,
+            "modifiedTime": 1537064979414,
+            "changeTime": 1537064979414,
+            "contentHash": "9862f36d01e1cc7dd94acc9c77c0ca0819fdb989"
+        }
+    ],
+    [
+        "c:\\projects\\llnbproject\\force-app\\main\\default\\aura\\contactList\\contactList.cmp-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "c:\\projects\\llnbproject\\force-app\\main\\default\\aura\\contactList\\contactList.cmp-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 228,
+            "modifiedTime": 1537064979425,
+            "changeTime": 1537064979425,
+            "contentHash": "0e56fac143bebb2d3f47b76d45c3a61ff95ee18e"
+        }
+    ],
+    [
+        "c:\\projects\\llnbproject\\force-app\\main\\default\\aura\\contactList\\contactListController.js",
+        {
+            "state": "u",
+            "sourcePath": "c:\\projects\\llnbproject\\force-app\\main\\default\\aura\\contactList\\contactListController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 877,
+            "modifiedTime": 1537064979428,
+            "changeTime": 1537064979428,
+            "contentHash": "15296b6507c3893a280532a961f3863b2ab680fd"
+        }
+    ],
+    [
+        "c:\\projects\\llnbproject\\force-app\\main\\default\\aura\\contactList\\contactListHelper.js",
+        {
+            "state": "u",
+            "sourcePath": "c:\\projects\\llnbproject\\force-app\\main\\default\\aura\\contactList\\contactListHelper.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1016,
+            "modifiedTime": 1537064979434,
+            "changeTime": 1537064979434,
+            "contentHash": "efecab3384b1a371618ac85544bfd982b1c382e5"
+        }
+    ],
+    [
+        "c:\\projects\\llnbproject\\force-app\\main\\default\\aura\\contactList\\contactList.cmp",
+        {
+            "state": "u",
+            "sourcePath": "c:\\projects\\llnbproject\\force-app\\main\\default\\aura\\contactList\\contactList.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 2112,
+            "modifiedTime": 1537064979446,
+            "changeTime": 1537064979446,
+            "contentHash": "50ce444a4feb1a9254a552fbc473835bec45d3ce"
+        }
+    ],
+    [
+        "c:\\projects\\llnbproject\\force-app\\main\\default\\aura\\contacts\\contacts.cmp-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "c:\\projects\\llnbproject\\force-app\\main\\default\\aura\\contacts\\contacts.cmp-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 228,
+            "modifiedTime": 1537064979456,
+            "changeTime": 1537064979456,
+            "contentHash": "0e56fac143bebb2d3f47b76d45c3a61ff95ee18e"
+        }
+    ],
+    [
+        "c:\\projects\\llnbproject\\force-app\\main\\default\\aura\\contacts\\contacts.cmp",
+        {
+            "state": "u",
+            "sourcePath": "c:\\projects\\llnbproject\\force-app\\main\\default\\aura\\contacts\\contacts.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 591,
+            "modifiedTime": 1537064979462,
+            "changeTime": 1537064979462,
+            "contentHash": "82f7bcfab963b969081caa6d415c06f48ef19c8f"
+        }
+    ],
+    [
+        "c:\\projects\\llnbproject\\force-app\\main\\default\\aura\\contacts\\contactsController.js",
+        {
+            "state": "u",
+            "sourcePath": "c:\\projects\\llnbproject\\force-app\\main\\default\\aura\\contacts\\contactsController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 316,
+            "modifiedTime": 1537064979468,
+            "changeTime": 1537064979468,
+            "contentHash": "4b3488765ddb72efd75559b676c396be68d8b9c6"
+        }
+    ],
+    [
+        "c:\\projects\\llnbproject\\force-app\\main\\default\\standardValueSets\\LeadSource.standardValueSet-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "c:\\projects\\llnbproject\\force-app\\main\\default\\standardValueSets\\LeadSource.standardValueSet-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 1191,
+            "modifiedTime": 1537064979476,
+            "changeTime": 1537064979476,
+            "contentHash": "24ff44cd2ed306ae396e0c891a5c72fa0b3bef6b"
+        }
+    ],
+    [
+        "c:\\projects\\llnbproject\\force-app\\main\\default\\objects\\Affiliated_Contact__c\\Affiliated_Contact__c.object-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "c:\\projects\\llnbproject\\force-app\\main\\default\\objects\\Affiliated_Contact__c\\Affiliated_Contact__c.object-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2203,
+            "modifiedTime": 1537064979495,
+            "changeTime": 1537064979495,
+            "contentHash": "728e495b3acf9b2fdddb4c54864c20ea11dfc4d2"
+        }
+    ],
+    [
+        "c:\\projects\\llnbproject\\force-app\\main\\default\\objects\\Affiliated_Contact__c\\fields\\Email__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "c:\\projects\\llnbproject\\force-app\\main\\default\\objects\\Affiliated_Contact__c\\fields\\Email__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 371,
+            "modifiedTime": 1537064979498,
+            "changeTime": 1537064979498,
+            "contentHash": "ed864bee6b7faf2d8c7b6d6f1f5cae6e9ce98f35"
+        }
+    ],
+    [
+        "c:\\projects\\llnbproject\\force-app\\main\\default\\objects\\Affiliated_Contact__c\\fields\\First_Name__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "c:\\projects\\llnbproject\\force-app\\main\\default\\objects\\Affiliated_Contact__c\\fields\\First_Name__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 405,
+            "modifiedTime": 1537064979502,
+            "changeTime": 1537064979502,
+            "contentHash": "d208d34392bb5a2bb7849f3703d6834a32ac05ee"
+        }
+    ],
+    [
+        "c:\\projects\\llnbproject\\force-app\\main\\default\\objects\\Affiliated_Contact__c\\fields\\Last_Name__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "c:\\projects\\llnbproject\\force-app\\main\\default\\objects\\Affiliated_Contact__c\\fields\\Last_Name__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 403,
+            "modifiedTime": 1537064979504,
+            "changeTime": 1537064979504,
+            "contentHash": "ceb5f7b967830e9215b33114c2523082b4469bbf"
+        }
+    ],
+    [
+        "c:\\projects\\llnbproject\\force-app\\main\\default\\objects\\Affiliated_Contact__c\\fields\\Mobile__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "c:\\projects\\llnbproject\\force-app\\main\\default\\objects\\Affiliated_Contact__c\\fields\\Mobile__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 346,
+            "modifiedTime": 1537064979505,
+            "changeTime": 1537064979505,
+            "contentHash": "c45c91e787ddce886d593688d8c4735ab6c97c3c"
+        }
+    ],
+    [
+        "c:\\projects\\llnbproject\\force-app\\main\\default\\objects\\Affiliated_Contact__c\\fields\\Phone__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "c:\\projects\\llnbproject\\force-app\\main\\default\\objects\\Affiliated_Contact__c\\fields\\Phone__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 344,
+            "modifiedTime": 1537064979506,
+            "changeTime": 1537064979506,
+            "contentHash": "ec86089f8dde9b67ec3a536ad34a4cdbf646a5e3"
+        }
+    ],
+    [
+        "c:\\projects\\llnbproject\\force-app\\main\\default\\objects\\Affiliated_Contact__c\\fields\\Role__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "c:\\projects\\llnbproject\\force-app\\main\\default\\objects\\Affiliated_Contact__c\\fields\\Role__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 393,
+            "modifiedTime": 1537064979507,
+            "changeTime": 1537064979507,
+            "contentHash": "7582bb20b99a0693cd4ca7c6fe81b52fcc16219b"
+        }
+    ],
+    [
+        "c:\\projects\\llnbproject\\force-app\\main\\default\\objects\\Affiliated_Contact__c\\fields\\Updated__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "c:\\projects\\llnbproject\\force-app\\main\\default\\objects\\Affiliated_Contact__c\\fields\\Updated__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 347,
+            "modifiedTime": 1537064979509,
+            "changeTime": 1537064979509,
+            "contentHash": "dc32cf680a71dc967a42f9f8644db8f6bee29e3d"
+        }
+    ],
+    [
+        "c:\\projects\\llnbproject\\force-app\\main\\default\\objects\\Account\\Account.object-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "c:\\projects\\llnbproject\\force-app\\main\\default\\objects\\Account\\Account.object-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 3921,
+            "modifiedTime": 1537064979541,
+            "changeTime": 1537064979541,
+            "contentHash": "f9283cea22e9fbcd8c7cc5a1c1173a6c2b7b3cc7"
+        }
+    ],
+    [
+        "c:\\projects\\llnbproject\\force-app\\main\\default\\objects\\Contact\\Contact.object-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "c:\\projects\\llnbproject\\force-app\\main\\default\\objects\\Contact\\Contact.object-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4877,
+            "modifiedTime": 1537064979561,
+            "changeTime": 1537064979561,
+            "contentHash": "3d0cbf70d11deba15a7281b65f3f8a0eab1711f6"
+        }
+    ],
+    [
+        "c:\\projects\\llnbproject\\force-app\\main\\default\\layouts\\Affiliated_Contact__c-Affiliated Contact Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "c:\\projects\\llnbproject\\force-app\\main\\default\\layouts\\Affiliated_Contact__c-Affiliated Contact Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 3610,
+            "modifiedTime": 1537064979573,
+            "changeTime": 1537064979573,
+            "contentHash": "58cc9b8e47eb38b1e9c1d4709eab36390e57b163"
+        }
+    ],
+    [
+        "c:\\projects\\llnbproject\\force-app\\main\\default\\flexipages\\Contact_Record_Page.flexipage-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "c:\\projects\\llnbproject\\force-app\\main\\default\\flexipages\\Contact_Record_Page.flexipage-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 6112,
+            "modifiedTime": 1537064979584,
+            "changeTime": 1537064979584,
+            "contentHash": "f3e901f51b33ac7ef7e54d20093a4af0992bd3db"
+        }
+    ],
+    [
+        "c:\\projects\\llnbproject\\force-app\\main\\default\\flexipages\\Account_Record_Page.flexipage-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "c:\\projects\\llnbproject\\force-app\\main\\default\\flexipages\\Account_Record_Page.flexipage-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 6237,
+            "modifiedTime": 1537064979592,
+            "changeTime": 1537064979592,
+            "contentHash": "06923c98c51bf9fd4cca0a7b9094aff936c2efaf"
+        }
+    ],
+    [
+        "c:\\projects\\llnbproject\\force-app\\main\\default\\tabs\\Lead_List.tab-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "c:\\projects\\llnbproject\\force-app\\main\\default\\tabs\\Lead_List.tab-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 258,
+            "modifiedTime": 1537064979600,
+            "changeTime": 1537064979600,
+            "contentHash": "22c7f6c413edb49b90b235c9868318edb37228b5"
+        }
+    ],
+    [
+        "c:\\projects\\llnbproject\\force-app\\main\\default\\tabs\\Contact_List.tab-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "c:\\projects\\llnbproject\\force-app\\main\\default\\tabs\\Contact_List.tab-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 261,
+            "modifiedTime": 1537064979607,
+            "changeTime": 1537064979607,
+            "contentHash": "eac3be8d0166a34ce6b0f6691c371695c9a44c55"
+        }
+    ],
+    [
+        "c:\\projects\\llnbproject\\force-app\\main\\default\\classes\\LeadController.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "c:\\projects\\llnbproject\\force-app\\main\\default\\classes\\LeadController.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1537064979616,
+            "changeTime": 1537064979616,
+            "contentHash": "0bfc8bc49e53c8f0f6b207cf675766c0d6546ee5"
+        }
+    ],
+    [
+        "c:\\projects\\llnbproject\\force-app\\main\\default\\classes\\LeadController.cls",
+        {
+            "state": "u",
+            "sourcePath": "c:\\projects\\llnbproject\\force-app\\main\\default\\classes\\LeadController.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 256,
+            "modifiedTime": 1537064979625,
+            "changeTime": 1537064979625,
+            "contentHash": "e4a496d30e9ee0d9b18fed6432b30524745d3f59"
+        }
+    ],
+    [
+        "c:\\projects\\llnbproject\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "c:\\projects\\llnbproject\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 35278,
+            "modifiedTime": 1537064979685,
+            "changeTime": 1537064979685,
+            "contentHash": "9bfa1341b693ddd9e8ac65a68e53a819f8dda129"
+        }
+    ],
+    [
+        "c:\\projects\\llnbproject\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "c:\\projects\\llnbproject\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 34940,
+            "modifiedTime": 1537064979725,
+            "changeTime": 1537064979725,
+            "contentHash": "596f7ff5738af834f6113bd4ce4f39983cfaae60"
+        }
+    ],
+    [
+        "c:\\projects\\llnbproject\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "c:\\projects\\llnbproject\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 34940,
+            "modifiedTime": 1537064979752,
+            "changeTime": 1537064979752,
+            "contentHash": "596f7ff5738af834f6113bd4ce4f39983cfaae60"
+        }
+    ],
+    [
+        "c:\\projects\\llnbproject\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "c:\\projects\\llnbproject\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 50051,
+            "modifiedTime": 1537064979778,
+            "changeTime": 1537064979778,
+            "contentHash": "0d1a64261577c6f064e37472c0d2189acc389495"
+        }
+    ],
+    [
+        "c:\\projects\\llnbproject\\force-app\\main\\default\\aura\\leads",
+        {
+            "state": "u",
+            "sourcePath": "c:\\projects\\llnbproject\\force-app\\main\\default\\aura\\leads",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1537064979394,
+            "changeTime": 1537064979394,
+            "contentHash": "8fffb16628822e8ad5e1c31d37c685b9d60b2d57"
+        }
+    ],
+    [
+        "c:\\projects\\llnbproject\\force-app\\main\\default\\aura\\leadList",
+        {
+            "state": "u",
+            "sourcePath": "c:\\projects\\llnbproject\\force-app\\main\\default\\aura\\leadList",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1537064979413,
+            "changeTime": 1537064979413,
+            "contentHash": "efa5056eb55b16537b84a5302e0c5d2b04ce4640"
+        }
+    ],
+    [
+        "c:\\projects\\llnbproject\\force-app\\main\\default\\standardValueSets",
+        {
+            "state": "u",
+            "sourcePath": "c:\\projects\\llnbproject\\force-app\\main\\default\\standardValueSets",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1537064979475,
+            "changeTime": 1537064979475,
+            "contentHash": "483d5f91727b754384bcb22d970dd288e4a82ceb"
+        }
+    ],
+    [
+        "c:\\projects\\llnbproject\\force-app\\main\\default\\objects\\Affiliated_Contact__c",
+        {
+            "state": "u",
+            "sourcePath": "c:\\projects\\llnbproject\\force-app\\main\\default\\objects\\Affiliated_Contact__c",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1537064979497,
+            "changeTime": 1537064979497,
+            "contentHash": "90053a9009dfbfa07ca7a212ef818b43af90b30a"
+        }
+    ],
+    [
+        "c:\\projects\\llnbproject\\force-app\\main\\default\\objects\\Affiliated_Contact__c\\fields",
+        {
+            "state": "u",
+            "sourcePath": "c:\\projects\\llnbproject\\force-app\\main\\default\\objects\\Affiliated_Contact__c\\fields",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1537064979508,
+            "changeTime": 1537064979508,
+            "contentHash": "df36372f6a145542f5ce8b4144627b48baf3bbaa"
+        }
+    ],
+    [
+        "c:\\projects\\llnbproject\\force-app\\main\\default\\objects\\Account",
+        {
+            "state": "u",
+            "sourcePath": "c:\\projects\\llnbproject\\force-app\\main\\default\\objects\\Account",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1537064979541,
+            "changeTime": 1537064979541,
+            "contentHash": "7e07eb8f1af457f56a1101d84cb8d06e8249b6d6"
+        }
+    ],
+    [
+        "c:\\projects\\llnbproject\\force-app\\main\\default\\objects\\Contact",
+        {
+            "state": "u",
+            "sourcePath": "c:\\projects\\llnbproject\\force-app\\main\\default\\objects\\Contact",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1537064979561,
+            "changeTime": 1537064979561,
+            "contentHash": "661e0d544b605f6d4bf16ac9782ecd625944d391"
+        }
+    ],
+    [
+        "c:\\projects\\llnbproject\\force-app\\main\\default\\profiles",
+        {
+            "state": "u",
+            "sourcePath": "c:\\projects\\llnbproject\\force-app\\main\\default\\profiles",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1537064979778,
+            "changeTime": 1537064979778,
+            "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717"
         }
     ]
 ]
